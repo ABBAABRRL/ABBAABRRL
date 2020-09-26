@@ -13,6 +13,8 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		Document document = new Document();
 		String i;
+		String t;
+		String master;
 		try {
 			//生成路徑
 			String filename = "C:/iTextDemo/ChineseDisplay.pdf";

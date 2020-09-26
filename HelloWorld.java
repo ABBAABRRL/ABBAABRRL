@@ -12,6 +12,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 		Document document = new Document();
+		String i;
 		try {
 			//生成路徑
 			String filename = "C:/iTextDemo/ChineseDisplay.pdf";
